@@ -1,2 +1,2 @@
-# desafio-excel-simulacao-investimentos
-Este desafio faz parte do Curso Santander - Excel com Inteligência Artifial, onde o objetivo é aplicar os conceitos de Excel no desenvolvimento de uma ferramenta prática de simulação de investimentos em fundos imobiliários.
+# Simulador de Investimentos em Fundos Imobilários
+Este desafio faz parte do Curso Santander - Excel com Inteligência Artifial, onde o objetivo é aplicar os conceitos de Excel no desenvolvimento de uma ferramenta prática de simulação de investimentos em fundos imobiliários, onde tivemos uma visão do funcionamento desta modalidade de aplicação e através da aplicação de várias fórmulas que facilitam ao usuário investidor a ter uma visão clara valores investidos e ganhos em determinados períodos, o que lhe permite a uma tomada de decisão mais acertiva.
